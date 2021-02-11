@@ -10,7 +10,7 @@ export default function Google() {
 
   useEffect(() => {
       Tabletop.init({
-      key: "1afr_9ZV1u1121UoNm1OJhRdEzE1v6YP5txBJTHAbUtY",
+      key: **
       simpleSheet: true,
     
     })
